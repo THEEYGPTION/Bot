@@ -6,3 +6,4 @@ telebot==0.0.4
 uuid==1.30
 random2==1.0.1
 stripe==2.61.0
+Faker==14.2.1
