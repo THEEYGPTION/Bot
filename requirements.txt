@@ -1,14 +1,11 @@
+os
 requests
-bs4
-BeautifulSoup
-telebot
-types
+bs4 
+telebot 
 random
 uuid
 re
 pycountry
 time
 faker
-Faker
 Strip
-Payment
